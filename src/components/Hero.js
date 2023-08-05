@@ -19,7 +19,7 @@ function Hero () {
 
             <h2 className="mb-6 flex items-center justify-center gap-2 font-semibold md:justify-start">
               <div className="h-1 w-12 rounded-full bg-purple-800" />
-              Desenvolvedor React.js Front-end
+              Desenvolvedora React.js Front-end
             </h2>
 
             <p className="mb-6 text-center text-gray-400 md:text-left">
